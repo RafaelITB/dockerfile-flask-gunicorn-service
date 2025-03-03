@@ -4,7 +4,7 @@
 
 - **User**: `rgs`
 - **Password**: `sjo`
-- 
+  
 ### Building the Docker Image
 
 Download the `Dockerfile` and run the following command in the same directory:
